@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
+![ecommerce_api Splash Screen](assets/images/splash.png).
+![ecommerce_api Login Screen](assets/images/login.png).
+![ecommerce_api Home Screen](assets/images/home.png).
+![ecommerce_api Specific Product Screen](assets/images/specific_product.png).
+![ecommerce_api  Category Screen](assets/images/category.png).
+![ecommerce_api  Profile Screen](assets/images/profile.png).
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

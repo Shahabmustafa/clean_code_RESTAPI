@@ -25,10 +25,10 @@ class LoginViewModel extends ChangeNotifier{
 
   Future<void> fetchUserLogin(BuildContext context)async{
     Map data = {
-      "username" : "mor_2314",
-      "password" : "83r5^_",
-      // "username" : email.text.trim(),
-      // "password" : password.text.trim(),
+      // "username" : "mor_2314",
+      // "password" : "83r5^_",
+      "username" : email.text.trim(),
+      "password" : password.text.trim(),
     };
     setLoginLoading(true);
     try{
