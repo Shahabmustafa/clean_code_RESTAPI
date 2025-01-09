@@ -2,12 +2,13 @@
 
 A new Flutter project.
 
-![ecommerce_api Splash Screen](assets/images/splash.png).
-![ecommerce_api Login Screen](assets/images/login.png).
-![ecommerce_api Home Screen](assets/images/home.png).
-![ecommerce_api Specific Product Screen](assets/images/specific_product.png).
-![ecommerce_api  Category Screen](assets/images/category.png).
-![ecommerce_api  Profile Screen](assets/images/profile.png).
+<img src="assets/images/splash.png" alt="ecommerce_api Splash Screen" width="300" height="500">
+<img src="assets/images/login.png" alt="ecommerce_api Login Screen" width="300" height="500">
+<img src="assets/images/home.png" alt="ecommerce_api Home Screen" width="300" height="500">
+<img src="assets/images/specific_product.png" alt="ecommerce_api Specific Product Screen" width="300" height="500">
+<img src="assets/images/category.png" alt="ecommerce_api Category Screen" width="300" height="500">
+<img src="assets/images/profile.png" alt="ecommerce_api Profile Screen" width="300" height="500">
+
 
 ## Getting Started
 
