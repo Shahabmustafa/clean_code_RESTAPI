@@ -38,9 +38,9 @@ User-friendly product browsing and detailed product pages. Seamless cart managem
 
 <table>
   <tr>
-    <td><img src="assets/images/splash.png" alt="ecommerce_api Splash Screen" width="250" height="500"></td>
-    <td><img src="assets/images/book_list.png" alt="ecommerce_api Login Screen" width="250" height="500"></td>
-    <td><img src="assets/images/specific_book.png" alt="ecommerce_api Home Screen" width="250" height="500"></td>
-    <td><img src="assets/images/search_book.png" alt="ecommerce_api Specific Product Screen" width="250" height="500"></td>
+    <td><img src="bank_api/assets/images/splash.png" alt="ecommerce_api Splash Screen" width="250" height="500"></td>
+    <td><img src="bank_api/assets/images/book_list.png" alt="ecommerce_api Login Screen" width="250" height="500"></td>
+    <td><img src="bank_api/assets/images/specific_book.png" alt="ecommerce_api Home Screen" width="250" height="500"></td>
+    <td><img src="bank_api/assets/images/search_book.png" alt="ecommerce_api Specific Product Screen" width="250" height="500"></td>
   </tr>
 </table>
